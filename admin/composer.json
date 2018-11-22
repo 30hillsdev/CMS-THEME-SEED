@@ -3,7 +3,7 @@
     "description": "Admin theme for cms_theme_seed cms.",
     "keywords": ["Cms_Theme_Seed", "Admin", "Theme"],
     "license": "MIT",
-    "type": "cms_theme_seed",
+    "type": "cts-theme",
     "require": {
         "composer/installers": "dev-master"
     },

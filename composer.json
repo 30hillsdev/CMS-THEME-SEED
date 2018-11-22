@@ -4,7 +4,7 @@
     "keywords": ["Theme", "Cms_Theme_Seed"],
     "license": "MIT",
     "homepage": "http://30hills.com",
-    "type": "cms_theme_seed",
+    "type": "cts-theme",
     "authors": [
         {
             "name": "30Hills",
