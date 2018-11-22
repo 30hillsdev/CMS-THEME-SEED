@@ -1,0 +1,16 @@
+{
+    "name": "cms_theme_seed/public",
+    "description": "Public theme for cms_theme_seed.",
+    "keywords": ["Cms_Theme_Seed", "Public", "Theme"],
+    "license": "MIT",
+    "type": "cms_theme_seed",
+    "require": {
+        "composer/installers": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Cms_Theme_Seed",
+            "email": "info@30hills.com"
+        }
+    ]
+}

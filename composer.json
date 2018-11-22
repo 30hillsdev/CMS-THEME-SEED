@@ -1,0 +1,23 @@
+{
+    "name": "30hills/cms_theme_seed",
+    "description": "CMS THEME SEED",
+    "keywords": ["Theme", "Cms_Theme_Seed"],
+    "license": "MIT",
+    "homepage": "http://30hills.com",
+    "type": "cms_theme_seed",
+    "authors": [
+        {
+            "name": "30Hills",
+            "email": "info@30hills.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "composer/installers": "~1.4"
+    },
+    "replace": {
+        "cms_theme_seed/admin": "self.version",
+        "cms_theme_seed/user": "self.version",
+        "cms_theme_seed/public": "self.version"
+    }
+}
