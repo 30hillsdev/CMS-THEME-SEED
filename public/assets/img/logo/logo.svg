@@ -9,9 +9,10 @@
 	.st3{opacity:0.7;}
 	.st4{fill:url(#SVGID_2_);}
 	.st5{fill:url(#SVGID_3_);}
+	.Rrrrr { font: bold 16px arial; fill: black; }
 </style>
 <g>
-
+		 <text class="Rrrrr" x="40" y="25" fill="red">CMS SEED</text>
 	<g>
 		<path class="st0" d="M25.4,35.4H10.8c-5.6,0-10.2-4.6-10.2-10.2V10.6c0-5.6,4.6-10.2,10.2-10.2h24.8v24.8
 			C35.7,30.8,31.1,35.4,25.4,35.4z"/>
